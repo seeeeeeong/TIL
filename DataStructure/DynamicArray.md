@@ -11,7 +11,7 @@
 #### Resizing 과정에서 데이터를 하나하나 옮겨야하므로 시간복잡도는 O(n)이 된다.
 #### Resizing이 끝나면, 다시 O(1)의 시간복잡도로 원소에 접근할 수 있다.
 
-#### Q. Dynamic Array vs Linked List
+### Q. Dynamic Array vs Linked List
 
 #### Dynamic Array의 장점
 - 데이터의 접근과 할당이 O(1)로 빠르다.
